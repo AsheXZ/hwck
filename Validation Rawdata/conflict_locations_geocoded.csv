@@ -1,0 +1,189 @@
+district,range,place,lat,long,conflict
+Kannur,Kannavam,Nil,11.2787877,76.2538539,1
+Kannur,Kottiyoor,Aralam village,11.9610325,75.7264423,1
+Kannur,Kottiyoor,Aralam farm area,11.8736413,75.8647436,1
+Kannur,Kottiyoor,Vietnam,11.9768928,75.8279555,1
+Kannur,Kottiyoor,Ambalakandy,11.9658838,75.7524597,1
+Kannur,Kottiyoor,Chathitoor,11.8736413,75.8647436,1
+Kannur,Kottiyoor,Santhigiri,11.9151651,75.8645509,1
+Kannur,Kottiyoor,Ramachi,11.9212392,75.876062,1
+Kannur,Kottiyoor,Velluni,11.8736413,75.8647436,1
+Kannur,Kottiyoor,Kanichar,11.9059633,75.7858689,1
+Kannur,Kottiyoor,Madapurachal,11.924673,75.7426033,1
+Kannur,Kottiyoor,Odenthode,11.8736413,75.8647436,1
+Kannur,Kottiyoor,Manathana,11.9106918,75.7592783,1
+Kannur,Kottiyoor,Perumpunna,11.9264959,75.7349391,1
+Kannur,Kottiyoor,Palapuzha,11.9408364,75.7322826,1
+Kannur,Iritty,Ayyankunnu,12.0401233,75.7624822,1
+Kannur,Iritty,Thudimaram,12.0599747,75.7766805,1
+Kannur,Iritty,Edapuzha,12.3022247,75.2085509,1
+Kannur,Iritty,Valathode,11.9773119,75.7231637,1
+Kannur,Iritty,Palathumkadavu,12.0772601,75.7749193,1
+Kannur,Iritty,Koodalad,11.9773119,75.7231637,1
+Kannur,Kottiyoor West,Palchuram,11.853927,75.9171615,1
+Kannur,Kottiyoor West,Ambayathode,11.8645498,75.8917112,1
+Kannur,Kottiyoor West,Panniamala,11.8763836,75.3737973,1
+Kannur,Kottiyoor West,Nelliyodi,11.8654999,75.8592684,1
+Kannur,Thalipparamba,Kanjirakkolli,12.0419192,75.3690636,1
+Kannur,Thalipparamba,Mathilerithattu,12.0419192,75.3690636,1
+Kannur,Thalipparamba,Sasippara,12.0419192,75.3690636,1
+Kannur,Thalipparamba,Adampara,12.1350822,75.6213259,1
+Kannur,Thalipparamba,Mukkuzhi,12.3752069,75.1898198,1
+Kannur,Thalipparamba,Cheekkad,12.0419192,75.3690636,1
+Kannur,Thalipparamba,Nambiarmala,12.0419192,75.3690636,1
+Kannur,Thalipparamba,Paithalmala,12.175139,75.539029,1
+Kannur,Thalipparamba,Manjappullu,12.0419192,75.3690636,1
+Aralam,Aralam,Aralam Farm tribal rehabilitated area,11.952269,75.7341851,1
+Aralam,Aralam,Ambayathodu Palchuram area,11.952269,75.7341851,1
+Wayanad North,Begoor,Pilakavu–Maniyankunn–Thrissilery border,,,1
+Wayanad North,Begoor,Pancharakkolly–Priyadasini,,,1
+Wayanad North,Begoor,Chirakkara–Keerappankolli,,,1
+Wayanad North,Begoor,Muneeswarankunn–6th Number,,,1
+Wayanad North,Begoor,Mele Thalappuzha,,,1
+Wayanad North,Begoor,Athimala,11.8715013,75.9433788,1
+Wayanad North,Begoor,Edarakkolly Settlement Colony,,,1
+Wayanad North,Begoor,Kambamala–Poyil,,,1
+Wayanad North,Begoor,Thalappuzha–43rd Mile,,,1
+Wayanad North,Begoor,Tharatt–Pilakkav,,,1
+Wayanad North,Begoor,Pothumoola,11.8873049,76.0184369,1
+Wayanad North,Begoor,Mappilakolly,,,1
+Wayanad North,Begoor,Manikolly,,,1
+Wayanad North,Begoor,Thirunelly,11.9098981,75.994875,1
+Wayanad North,Begoor,Akolly,,,1
+Wayanad North,Begoor,Kondimoola,,,1
+Wayanad North,Begoor,Vellancheri,10.8487755,76.0079423,1
+Wayanad North,Begoor,Panduranga,,,1
+Wayanad North,Begoor,Rassal Kunnu,,,1
+Wayanad North,Begoor,Irimbupalam,,,1
+Wayanad North,Begoor,Shanamangalam,,,1
+Wayanad North,Begoor,Kakkeri,11.0123372,76.0195181,1
+Wayanad North,Begoor,Panavalli,9.8238414,76.3420095,1
+Konni,Konni,Aruvappulam,9.2060009,76.8635485,1
+Konni,Konni,Konni,9.2266942,76.8499466,1
+Konni,Konni,Ezhamkulam,9.189359,76.7709128,1
+Konni,Konni,Pramadam,9.2194467,76.8177222,1
+Konni,Konni,Pandalam,9.2218808,76.7233848,1
+Konni,Konni,Thekkekkara,9.3237862,76.9201929,1
+Konni,Naduvathumoozhi,Kalanjoor,9.1200515,76.8507813,1
+Konni,Naduvathumoozhi,Koodal,9.1354867,76.8723932,1
+Konni,Mannarappara,Mullumala Chathuppu,9.1554627,76.9906576,1
+Konni,Mannarappara,Sahyaseema,9.1554627,76.9906576,1
+Konni,Mannarappara,Mullumala Tribal Settlement,9.1554627,76.9906576,1
+Konni,Mannarappara,Kadambupara,9.1554627,76.9906576,1
+Konni,Mannarappara,Chembanaruvi,9.1554627,76.9906576,1
+Konni,Mannarappara,Vellamthetty,9.1554627,76.9906576,1
+Konni,Mannarappara,Avanippara Tribal Settlement,9.1554627,76.9906576,1
+Achencoil,Achencoil,Moonnumukku,8.6846021,76.8233564,1
+Achencoil,Achencoil,Girijan Colony,10.6474081,76.3504668,1
+Achencoil,Achencoil,Savacotta,,,1
+Achencoil,Achencoil,Kumbhavurutty,,,1
+Achencoil,Achencoil,Kodamala,,,1
+Achencoil,Achencoil,Manalar,,,1
+Achencoil,Kallar,Manjappara,9.8632704,77.1041002,1
+Punalur,Anchal,Dally,8.9292657,76.9065012,1
+Punalur,Anchal,Kulathupuzha,8.8940366,77.0552228,1
+Punalur,Anchal,Kalluvattamkuzhy,8.9292657,76.9065012,1
+Punalur,Anchal,Kalamkunnu,8.9488386,77.0742179,1
+Punalur,Anchal,Maruthimoodu,9.1385105,76.8015705,1
+Punalur,Anchal,Koovakkadu,8.9292657,76.9065012,1
+Punalur,Anchal,Neduvannurkkadavu–15th Acre,8.9292657,76.9065012,1
+Punalur,Pathanapuram,Cherukadavu,9.0494363,76.9795162,1
+Punalur,Pathanapuram,Inchapally,9.0255986,76.8847582,1
+Punalur,Pathanapuram,Kumbhazakadavu,9.0255986,76.8847582,1
+Punalur,Pathanapuram,Moolamon,9.0255986,76.8847582,1
+Punalur,Pathanapuram,Veliyakavu,9.0255986,76.8847582,1
+Punalur,Pathanapuram,Olappara,11.0573776,76.3110422,1
+Punalur,Pathanapuram,Mambhazathara,9.0255986,76.8847582,1
+Punalur,Pathanapuram,Irulampaccha,9.0255986,76.8847582,1
+Punalur,Pathanapuram,Elappakodu,9.0255986,76.8847582,1
+Punalur,Pathanapuram,Koppam,10.8654122,76.1866812,1
+Punalur,Pathanapuram,Paadam,10.0863089,76.2751081,1
+Punalur,Pathanapuram,Sanyasikon,9.0255986,76.8847582,1
+Punalur,Pathanapuram,Mukkilampaad,9.0255986,76.8847582,1
+Punalur,Pathanapuram,Kadassery,9.0169117,76.8882551,1
+Punalur,Pathanapuram,Kaduvamoola,9.0255986,76.8847582,1
+Punalur,Pathanapuram,Iruttuthara,9.0255986,76.8847582,1
+Thenmala,Ariyankavu,Anachady,8.9900281,77.0939514,1
+Thenmala,Ariyankavu,9th Acre,9.9883519,76.9854033,1
+Thenmala,Ariyankavu,Murugappanchal,8.9652655,77.0699638,1
+Thenmala,Ariyankavu,Ambanadu,11.8952656,75.5035776,1
+Thenmala,Ariyankavu,Swarnampillakkadu,8.9652655,77.0699638,1
+Thenmala,Ariyankavu,Rajacoup,8.9652655,77.0699638,1
+Thenmala,Ottakkal,Kampiline Area (near railway station),8.9652655,77.0699638,1
+Thenmala,Ottakkal,Ayyappankana,8.9652655,77.0699638,1
+Thenmala,Ottakkal,Kunnathumala,8.7626945,76.7584125,1
+Thenmala,Ottakkal,Valuparambu–Kazhuthurutty,8.9652655,77.0699638,1
+Thenmala,Ottakkal,27 Mala / 13 Kannara,8.9652655,77.0699638,1
+Thenmala,Ottakkal,Nagamala,8.9972841,77.068972,1
+Thenmala,Ottakkal,Poothottam,8.9652655,77.0699638,1
+Thenmala,Ottakkal,Thorappu,10.0638961,76.3623237,1
+Thenmala,Ottakkal,Anapettakonkal,8.9652655,77.0699638,1
+Thenmala,Ottakkal,Nedumpacha,8.8899981,76.9143732,1
+Thenmala,Ottakkal,Thonochal,11.7672722,76.0124546,1
+Thenmala,Ottakkal,Athippalam,8.9652655,77.0699638,1
+Thenmala,Ottakkal,Decentmukku,8.9652655,77.0699638,1
+Thenmala,Ottakkal,Villumala North,8.9652655,77.0699638,1
+Thenmala,Ottakkal,Villumala South,8.9652655,77.0699638,1
+Thenmala,Ottakkal,Amakkulam,8.9652655,77.0699638,1
+Thenmala,Ottakkal,Peruvazhikkala,8.9652655,77.0699638,1
+Thenmala,Ottakkal,Kulambi,8.9652655,77.0699638,1
+Thenmala,Ottakkal,Peramkovil,8.9652655,77.0699638,1
+Thenmala,Ottakkal,Vattaakkarikkom,8.9652655,77.0699638,1
+Thenmala,Ottakkal,Kattilappara,8.9652655,77.0699638,1
+Shendurney,Shendurney WLS,Rosemala,8.9199973,77.1754199,1
+Shendurney,Shendurney WLS,Kattilappara,8.8875699,77.165638,1
+Thiruvananthapuram,Kulathupuzha,Amakkulam–Empong,8.8473651,77.0541036,1
+Thiruvananthapuram,Kulathupuzha,Dally,8.8473651,77.0541036,1
+Thiruvananthapuram,Kulathupuzha,Beedikkunnu Milpalam,8.8473651,77.0541036,1
+Thiruvananthapuram,Kulathupuzha,Arippa,8.8366876,77.0290082,1
+Thiruvananthapuram,Kulathupuzha,Venkolla,8.8473651,77.0541036,1
+Thiruvananthapuram,Kulathupuzha,Pottomavu,8.8473651,77.0541036,1
+Thiruvananthapuram,Kulathupuzha,Sasthanada,8.755793,76.7766514,1
+Thiruvananthapuram,Kulathupuzha,Thannimoodu,8.7816412,77.0420632,1
+Thiruvananthapuram,Kulathupuzha,Adipparambu,8.8473651,77.0541036,1
+Thiruvananthapuram,Kulathupuzha,Kalayapuram,9.0547541,76.7695495,1
+Thiruvananthapuram,Kulathupuzha,Pambuchathamannu,8.8473651,77.0541036,1
+Thiruvananthapuram,Kulathupuzha,Ex-colony,8.4967836,77.1762411,1
+Thiruvananthapuram,Kulathupuzha,Edacolony,8.8473651,77.0541036,1
+Thiruvananthapuram,Kulathupuzha,Kuttathy,11.1432243,76.3407023,1
+Thiruvananthapuram,Kulathupuzha,Elavupalam,8.8473651,77.0541036,1
+Thiruvananthapuram,Palode,Kallar,8.7020451,77.0540032,1
+Thiruvananthapuram,Palode,Manali,8.508466,77.0480529,1
+Thiruvananthapuram,Palode,Attumanpuram,8.7232574,77.0283918,1
+Thiruvananthapuram,Palode,Mottamoodu,8.4448614,77.0244321,1
+Thiruvananthapuram,Palode,Chembikkunnu,8.7232574,77.0283918,1
+Thiruvananthapuram,Palode,Peringammala,8.7279389,77.0447969,1
+Thiruvananthapuram,Palode,Pethala,8.7232574,77.0283918,1
+Thiruvananthapuram,Palode,Mullachal,8.7232574,77.0283918,1
+Thiruvananthapuram,Palode,Njaraneeli,8.717074,77.0714353,1
+Thiruvananthapuram,Palode,Alummoodu,8.4025021,77.0861743,1
+Thiruvananthapuram,Palode,Adichakone,8.7232574,77.0283918,1
+Thiruvananthapuram,Paruthippally,Narakathinkala,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Oolancode,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Kaliyikkal,8.6568046,76.875552,1
+Thiruvananthapuram,Paruthippally,Mundankuzhy,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Valayara,10.8379033,76.8556668,1
+Thiruvananthapuram,Paruthippally,Chammakara,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Chanavila,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Aranakuzhy,10.1302645,76.3731221,1
+Thiruvananthapuram,Paruthippally,Aravalakarikkakam,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Kallar,8.7107425,77.1294925,1
+Thiruvananthapuram,Paruthippally,Bonacadu Tea Estate,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Karipoor,8.4961188,77.0300887,1
+Thiruvananthapuram,Paruthippally,Mannathipara,9.4823869,76.5656265,1
+Thiruvananthapuram,Paruthippally,Pannikuzhy,9.973352,76.417762,1
+Thiruvananthapuram,Paruthippally,Kuttapara,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Karipalam,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Pannikala,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Ottakudi,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Kooranpanjakala,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Parakkatheri,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Valiyakilikode,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Thyendiyamala,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Anakayathummoola,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Kaithakkaparappu,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Malayama,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Vilavoorkala,8.5641721,77.0916099,1
+Thiruvananthapuram,Paruthippally,Tholicode,8.6452548,77.055084,1
+Thiruvananthapuram,Paruthippally,Amboori,8.5016585,77.1910541,1
+Thiruvananthapuram WL,Kottoor,ABP,,,1
