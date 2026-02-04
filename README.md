@@ -4,6 +4,12 @@ A geospatial data engineering and analytics pipeline for modeling **human–wild
 
 ---
 
+## Changelogs v1.2 (Current)
++ Rawdata changed to reflect coordinates
++ SQL backend files added
++ Images added (OLAP)
++ Added rawdata to drive (https://drive.google.com/drive/folders/1fHx7TN2ga5DAHr0DqT_PwHKvkp_NMFsS?usp=sharing)
+
 ## 📌 Project Overview
 
 This project builds a **grid-based spatio-temporal dataset** that integrates:
